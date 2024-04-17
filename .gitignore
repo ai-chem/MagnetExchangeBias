@@ -6,3 +6,4 @@ data/Bias_data.csv
 
 # Игнорировать папку "hidden_folder"
 data/
+main/
