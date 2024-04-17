@@ -3,3 +3,6 @@ data/Bias_data_1.csv
 data/Bias_data_2.csv
 data/Bias_data_3.csv
 data/Bias_data.csv
+
+# Игнорировать папку "hidden_folder"
+data/
