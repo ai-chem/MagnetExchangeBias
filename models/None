@@ -1,0 +1,9 @@
+Collecting git+https://github.com/KindXiaoming/pykan.git
+  Cloning https://github.com/KindXiaoming/pykan.git to c:\users\ксения\appdata\local\temp\pip-req-build-r5ugcgp9
+  Resolved https://github.com/KindXiaoming/pykan.git to commit 173dadda8274897d97a7a63518c64caccda65576
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
