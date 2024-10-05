@@ -14,7 +14,7 @@ In our work, we compare different approaches to predicting exchange bias and int
 
 ### Data Collection
 
-We collected data from open scientific sources for 1,299 samples with various characteristics, including core material, shell material, space group of the core and shell, magnetic field, blocking temperature, Neel temperature, Curie temperature, nanoparticle width, length, and height in nanometers, nanoparticle shape, experimental temperature, saturation magnetization, remanent magnetization, coercivity, exchange bias, exchange bias direction, vertical shift, vertical shift direction, and additional magnetic field.
+We collected data from open scientific sources for 1299 samples with various characteristics, including core material, shell material, space group of the core and shell, magnetic field, blocking temperature, Neel temperature, Curie temperature, nanoparticle width, length, and height in nanometers, nanoparticle shape, experimental temperature, saturation magnetization, remanent magnetization, coercivity, exchange bias, exchange bias direction, vertical shift, vertical shift direction, and additional magnetic field.
 
 ### Data preprocessing and processing
 
