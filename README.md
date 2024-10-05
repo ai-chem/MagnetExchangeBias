@@ -10,7 +10,7 @@ In our work, we compare different approaches to predicting exchange bias and int
 
 # Project Implementation
 
-<div align='middle'><img src='Data/Fig_1_Pipeline.svg' style='width: 100%; min-width: 300px;'/></div>
+<div align='middle'><img src='Data\Fig_1_Pipeline_SVG-01.svg' style='width: 100%; min-width: 300px;'/></div>
 
 ### Data Collection
 
