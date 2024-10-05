@@ -2,6 +2,7 @@
 
 
 **Magnetic heterostructures nanoparticles and exchange bias**
+
 Magnetoelectric particles and exchange bias are critical for enhancing the stability and control of magnetization in spintronic devices, magnetic storage systems, and sensors. Exchange bias (EB) plays a crucial role in these technologies, helping to stabilize magnetic orientations.
 
 Currently, EB is employed to improve the regeneration of human tissues, MRAM memory circuits, and spin electronics through the empirical selection of a new hard magnetic layer. Advanced applications also utilize exchange bias to increase the stability of small magnetic particles, which would otherwise exhibit superparamagnetic behavior without this correction.
