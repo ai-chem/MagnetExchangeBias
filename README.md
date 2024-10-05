@@ -1,5 +1,5 @@
 # Prediction of exchange bias for magnetic heterostructures nanoparticles with machine learning
-<<<<<<< HEAD
+
 
 **Magnetoelectric particles and exchange bias**
 Magnetoelectric particles and exchange bias are critical for enhancing the stability and control of magnetization in spintronic devices, magnetic storage systems, and sensors. Exchange bias (EB) plays a crucial role in these technologies, helping to stabilize magnetic orientations.
@@ -10,7 +10,7 @@ In our work, we compare different approaches to predicting exchange bias and int
 
 # Project Implementation
 
-<div align='middle'><img src='Data/Fig_1_Pipeline.tiff' style='width: 100%; min-width: 300px;'/></div>
+<div align='middle'><img src='Data/Fig_1_Pipeline.svg' style='width: 100%; min-width: 300px;'/></div>
 
 ### Data Collection
 
