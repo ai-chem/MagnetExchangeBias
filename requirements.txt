@@ -1,5 +1,6 @@
 numpy==1.26.4
 pandas==2.2.2
+python==3.10.12
 pykan==0.2.6
 plotly==5.24.1
 matplotlib==3.7.1
