@@ -29,4 +29,4 @@ We trained both classical machine learning models and a new neural network based
 
 ## Magnet_Exchange_bias
 
-Magnet_Exchange_Bias is a scientific project for 2023-2024 that aims to predict exchange bias in heterostructural magnetic nanoparticles.
+Magnet_Exchange_Bias is a scientific project for 2023-2024 that aims to predict exchange bias shift in heterostructural magnetic nanoparticles.
