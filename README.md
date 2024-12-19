@@ -1,4 +1,4 @@
-<div align='middle'><img src='Data\Fig_1_TOC.svg' style='width: 100%; min-width: 300px;'/></div>
+<div align='middle'><img src='Data\Fig_1_TOC.jpg' style='width: 100%; min-width: 300px;'/></div>
 
 # Prediction of exchange bias for magnetic heterostructures nanoparticles with machine learning
 
