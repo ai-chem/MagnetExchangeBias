@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 233.86 126.14">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9, .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9, .cls-11 {
+        font-size: 6.33px;
+      }
+
+      .cls-9, .cls-11, .cls-5, .cls-12 {
+        fill: #1d1d1b;
+      }
+
+      .cls-9, .cls-11, .cls-12 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-3 {
+        fill: #fff;
+        opacity: .67;
+      }
+
+      .cls-13 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #516e9a;
+        opacity: .2;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-21 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-26 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        font-size: 126.62px;
+      }
+
+      .cls-6 {
+        fill: url(#_Безымянный_градиент_11-2);
+      }
+
+      .cls-29 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        fill: url(#_Безымянный_градиент_11);
+      }
+    </style>
+    <radialGradient id="_Безымянный_градиент_11" data-name="Безымянный градиент 11" cx="28.42" cy="61.32" fx="28.42" fy="80.78" r="26.18" gradientUnits="userSpaceOnUse">
+      <stop offset=".2" stop-color="#fff"/>
+      <stop offset=".66" stop-color="#fff"/>
+      <stop offset=".7" stop-color="#fafafa"/>
+      <stop offset=".75" stop-color="#eee"/>
+      <stop offset=".79" stop-color="#d9d9d8"/>
+      <stop offset=".84" stop-color="#bbb"/>
+      <stop offset=".89" stop-color="#959594"/>
+      <stop offset=".94" stop-color="#676766"/>
+      <stop offset=".98" stop-color="#31312f"/>
+      <stop offset="1" stop-color="#1d1d1b"/>
+    </radialGradient>
+    <radialGradient id="_Безымянный_градиент_11-2" data-name="Безымянный градиент 11" cx="-50.47" cy="54.65" fx="-50.47" fy="74.12" r="26.18" gradientTransform="translate(52.27 34.48) scale(.5 .49)" xlink:href="#_Безымянный_градиент_11"/>
+  </defs>
+  <image width="1024" height="1024" transform="translate(69.88 12.48) scale(.09)" xlink:href="f7a78af4-7361-47c2-b36a-fa61f4f85a79-Photoroom.png"/>
+  <g>
+    <line class="cls-21" x1="60.4" y1="59.77" x2="70.61" y2="59.86"/>
+    <path class="cls-5" d="M75.14,59.9c-2.14.77-4.79,2.1-6.44,3.51l1.32-3.56-1.26-3.58c1.63,1.44,4.26,2.81,6.38,3.62Z"/>
+  </g>
+  <g>
+    <line class="cls-21" x1="155.49" y1="60.29" x2="164.52" y2="60.36"/>
+    <path class="cls-5" d="M169.05,60.39c-2.14.77-4.79,2.1-6.44,3.52l1.32-3.56-1.26-3.58c1.63,1.44,4.26,2.81,6.38,3.62Z"/>
+  </g>
+  <text class="cls-12" transform="translate(-10111.56 -201.93)"><tspan class="cls-16" x="0" y="0">KDE of absolu</tspan><tspan class="cls-26" x="694.88" y="0">t</tspan><tspan class="cls-1" x="733.5" y="0">e p</tspan><tspan class="cls-18" x="888.23" y="0">r</tspan><tspan class="cls-16" x="925.83" y="0">edi</tspan><tspan class="cls-22" x="1082.72" y="0">c</tspan><tspan class="cls-23" x="1138.55" y="0">tion e</tspan><tspan class="cls-25" x="1424.96" y="0">r</tspan><tspan class="cls-13" x="1464.34" y="0">r</tspan><tspan class="cls-27" x="1501.95" y="0">or </tspan><tspan class="cls-14" x="1632.11" y="0">f</tspan><tspan class="cls-17" x="1664.91" y="0">or all models and </tspan><tspan class="cls-15" x="2551.11" y="0">K</tspan><tspan class="cls-16" x="2618.47" y="0">AN</tspan></text>
+  <text class="cls-11" transform="translate(9.41 25.69)"><tspan class="cls-10" x="0" y="0">37 pa</tspan><tspan class="cls-8" x="13.86" y="0">r</tspan><tspan class="cls-10" x="15.77" y="0">ame</tspan><tspan class="cls-24" x="26.89" y="0">t</tspan><tspan class="cls-29" x="28.83" y="0">ers</tspan></text>
+  <text class="cls-9" transform="translate(109.32 25.87)"><tspan x="0" y="0">ML</tspan></text>
+  <text class="cls-11" transform="translate(166.8 25.69)"><tspan class="cls-29" x="0" y="0">E</tspan><tspan class="cls-28" x="2.99" y="0">x</tspan><tspan class="cls-29" x="5.7" y="0">change bias p</tspan><tspan class="cls-30" x="40.61" y="0">r</tspan><tspan class="cls-20" x="42.49" y="0">edi</tspan><tspan class="cls-19" x="50.33" y="0">c</tspan><tspan class="cls-29" x="53.12" y="0">tion </tspan></text>
+  <image width="1024" height="1024" transform="translate(162.45 26.95) scale(.07)" xlink:href="8d5a908c-0a21-45d5-8f24-b316abb6b70d-fotor-bg-remover-202411291439.png"/>
+  <g>
+    <ellipse class="cls-7" cx="28.42" cy="61.32" rx="25.82" ry="26.54"/>
+    <circle class="cls-2" cx="31.25" cy="58.31" r="18.67"/>
+    <circle class="cls-6" cx="26.81" cy="61.32" r="13.03"/>
+    <ellipse class="cls-4" cx="28.42" cy="61.32" rx="25.82" ry="26.46"/>
+    <circle class="cls-3" cx="30.54" cy="57.15" r="6.9"/>
+  </g>
+</svg>
